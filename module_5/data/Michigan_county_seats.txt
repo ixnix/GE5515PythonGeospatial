@@ -1,0 +1,11 @@
+id;name;addr
+001;Alcona County;106 5th St, Harrisville, MI 48740
+003;Alger County;101 Court St, Munising, MI 49862
+005;Allegan County;113 Chestnut St, Allegan, MI 49010
+007;Alpena County;720 W Chisholm St, Alpena, MI 49707
+009;Antrim County;203 E Cayuga St, Bellaire, MI 49615
+081;Kent County;300 Monroe Ave NW, Grand Rapids, MI 49503
+099;Macomb County;1 S Main St, Mt Clemens, MI 48043
+125;Oakland County;1200 N Telegraph Rd, Pontiac, MI 48341
+161;Washtenaw County;220 N Main St, Ann Arbor, MI 48104
+163;Wayne County;500 Griswold St, Detroit, MI 48226

@@ -1,0 +1,26 @@
+id;addr
+1;500 S State St, Ann Arbor, MI 48109
+2;220 Trowbridge Rd, East Lansing, MI 48824
+3;42 W Warren Ave, Detroit, MI 48202
+4;1 Campus Dr, Allendale, MI 49401
+5;1903 W Michigan Ave, Kalamazoo, MI 49008
+6;1200 S Franklin St, Mt Pleasant, MI 48859
+7;900 Oakwood St, Ypsilanti, MI 48197
+8;318 Meadow Brook Rd, Rochester, MI 48309
+9;1201 S State St, Big Rapids, MI 49307
+10;1400 Townsend Dr, Houghton, MI 49931
+11;1401 Presque Isle Ave, Marquette, MI 49855
+12;650 W Easterday Ave, Sault Ste. Marie, MI 49783
+13;7400 Bay Rd, University Center, MI 48710
+14;4901 Evergreen Rd, Dearborn, MI 48128
+15;303 E Kearsley St, Flint, MI 48502
+16;141 E 12th St, Holland, MI 49423
+17;3201 Burton St SE, Grand Rapids, MI 49546
+18;1200 Academy St, Kalamazoo, MI 49006
+19;611 E Porter St, Albion, MI 49224
+20;614 W Superior St, Alma, MI 48801
+21;110 S Madison St, Adrian, MI 49221
+22;8975 US-31, Berrien Springs, MI 49104
+23;1700 Fulton St E, Grand Rapids, MI 49506
+24;6191 Kraft Ave SE, Grand Rapids, MI 49512
+25;33 E College St, Hillsdale, MI 49242

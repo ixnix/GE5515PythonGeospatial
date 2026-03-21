@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Solutions (kept local, not published)
+Solutions/
+
+# Backup data folder (top-level only)
+/data/
+
+# Claude Code
+.claude/
