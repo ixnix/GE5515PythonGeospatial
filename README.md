@@ -1,7 +1,5 @@
 # GE5515: Python for Geospatial Analysis
 
-Graduate course at Michigan Technological University taught by [Xin Xi](https://xinxi.page/).
-
 ## Course Description
 
 This course introduces Python programming for geospatial data analysis. Students learn to manage, analyze, and visualize spatial and non-spatial data using open-source Python libraries. Topics span the full geospatial analysis pipeline — from vector and raster fundamentals to advanced applications like watershed delineation and climate data analysis.
