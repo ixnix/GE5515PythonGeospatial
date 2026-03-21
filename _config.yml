@@ -1,0 +1,25 @@
+title: "GE5515: Python for Geospatial Analysis"
+author: Xin Xi
+copyright: "2026"
+logo: ""
+
+execute:
+  execute_notebooks: "off"
+
+html:
+  use_issues_button: false
+  use_repository_button: true
+  use_edit_page_button: false
+  home_page_in_navbar: true
+  baseurl: "https://ixnix.github.io/GE5515PythonGeospatial"
+
+repository:
+  url: "https://github.com/ixnix/GE5515PythonGeospatial"
+  branch: main
+
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
+
+sphinx:
+  config:
+    html_show_copyright: true

@@ -1,0 +1,48 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: Getting Started
+    chapters:
+      - file: module_0/introduction
+      - file: module_0/syllabus
+
+  - caption: "Part I: Python & Vector Data"
+    chapters:
+      - file: module_1/pandas_review
+      - file: module_1/Assignment_1
+      - file: module_2/data_model
+      - file: module_2/Assignment_2
+      - file: module_3/geopandas
+      - file: module_3/Assignment_3
+      - file: module_4/crs
+      - file: module_4/Assignment_4
+
+  - caption: "Part II: Spatial Operations"
+    chapters:
+      - file: module_5/geocoding
+      - file: module_5/Assignment_5
+      - file: module_6/spatial_join
+      - file: module_6/Assignment_6
+      - file: module_7/proximity_analysis
+      - file: module_7/Assignment_7
+      - file: module_8/vector_overlay
+      - file: module_8/Assignment_8
+      - file: module_9/aggregation_reclassify
+      - file: module_9/Assignment_9
+
+  - caption: "Part III: Raster Data & Analysis"
+    chapters:
+      - file: module_10/Raster_data
+      - file: module_10/Assignment_10
+      - file: module_11/Raster_analysis
+      - file: module_11/Assignment_11
+      - file: module_12/xarray_climate_data
+      - file: module_12/Assignment_12
+
+  - caption: "Part IV: Advanced Applications"
+    chapters:
+      - file: module_13/aggregate_raster_vector
+      - file: module_13/Assignment_13
+      - file: module_14/watershed
+      - file: module_14/Assignment_14
