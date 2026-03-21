@@ -10,69 +10,55 @@ parts:
   - caption: "Module 1: Pandas Review"
     chapters:
       - file: module_1/pandas_review
-      - file: module_1/Assignment_1
 
   - caption: "Module 2: Spatial Data Models & Shapely"
     chapters:
       - file: module_2/data_model
-      - file: module_2/Assignment_2
 
   - caption: "Module 3: GeoPandas"
     chapters:
       - file: module_3/geopandas
-      - file: module_3/Assignment_3
 
   - caption: "Module 4: Coordinate Reference Systems"
     chapters:
       - file: module_4/crs
-      - file: module_4/Assignment_4
 
   - caption: "Module 5: Geocoding"
     chapters:
       - file: module_5/geocoding
-      - file: module_5/Assignment_5
 
   - caption: "Module 6: Spatial Joins"
     chapters:
       - file: module_6/spatial_join
-      - file: module_6/Assignment_6
 
   - caption: "Module 7: Proximity Analysis"
     chapters:
       - file: module_7/proximity_analysis
-      - file: module_7/Assignment_7
 
   - caption: "Module 8: Vector Overlay"
     chapters:
       - file: module_8/vector_overlay
-      - file: module_8/Assignment_8
 
   - caption: "Module 9: Data Aggregation & Reclassification"
     chapters:
       - file: module_9/aggregation_reclassify
-      - file: module_9/Assignment_9
 
   - caption: "Module 10: Raster Data"
     chapters:
       - file: module_10/Raster_data
-      - file: module_10/Assignment_10
 
   - caption: "Module 11: Raster Analysis"
     chapters:
       - file: module_11/Raster_analysis
-      - file: module_11/Assignment_11
 
   - caption: "Module 12: Climate Data with xarray"
     chapters:
       - file: module_12/xarray_climate_data
-      - file: module_12/Assignment_12
 
   - caption: "Module 13: Aggregating Raster & Vector Data"
     chapters:
       - file: module_13/aggregate_raster_vector
-      - file: module_13/Assignment_13
 
   - caption: "Module 14: Watershed Delineation"
     chapters:
       - file: module_14/watershed
-      - file: module_14/Assignment_14
