@@ -3,6 +3,8 @@ author: Xin Xi
 copyright: "2026"
 logo: ""
 
+only_build_toc_files: true
+
 execute:
   execute_notebooks: "off"
 
