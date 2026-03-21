@@ -3,7 +3,11 @@ author: Xin Xi
 copyright: "2026"
 logo: ""
 
-only_build_toc_files: true
+exclude_patterns:
+  - "Assignment_*"
+  - "Solutions/*"
+  - "data/*"
+  - ".claude/*"
 
 execute:
   execute_notebooks: "off"
