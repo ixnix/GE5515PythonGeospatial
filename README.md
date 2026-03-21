@@ -16,7 +16,7 @@ This course introduces Python programming for geospatial data analysis. Students
 | 3 | GeoPandas | `geopandas.ipynb` | Assignment 3 |
 | 4 | Coordinate Reference Systems | `crs.ipynb` | Assignment 4 |
 | 5 | Geocoding | `geocoding.ipynb` | Assignment 5 |
-| 6 | Spatial Joins | `spatial-join.ipynb` | Assignment 6 |
+| 6 | Spatial Joins | `spatial_join.ipynb` | Assignment 6 |
 | 7 | Proximity Analysis | `proximity_analysis.ipynb` | Assignment 7 |
 | 8 | Vector Overlay | `vector_overlay.ipynb` | Assignment 8 |
 | 9 | Data Aggregation & Reclassification | `aggregation_reclassify.ipynb` | Assignment 9 |
@@ -67,6 +67,17 @@ Each module folder contains:
 - **`data/`** — datasets used in the module
 - **`img/`** — images and diagrams (most modules)
 
+## Acknowledgments
+
+This course was developed building upon the following open educational resources:
+
+- [**Introduction to Python for Geographic Data Analysis**](https://pythongis.org/) by Henrikki Tenkanen, Vuokko Heikinheimo & David Whipp (University of Helsinki). Many of the lecture notebooks and exercises in this course are adapted from their excellent open-source curriculum.
+- [**Python for Data Analysis**](https://wesmckinney.com/book/) by Wes McKinney (O'Reilly Media). Foundational reference for the pandas and data wrangling portions of the course.
+
 ## License
 
-[MIT](LICENSE)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+You are free to share and adapt this material for any purpose, provided you give appropriate credit.
