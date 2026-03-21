@@ -33,6 +33,16 @@ jobs:
       - name: Build the book
         run: jupyter-book build .
 
+      - name: Copy image directories to build output
+        run: |
+          for dir in module_*/img; do
+            if [ -d "$dir" ]; then
+              module=$(dirname "$dir")
+              mkdir -p "_build/html/$module/img"
+              cp -r "$dir"/* "_build/html/$module/img/"
+            fi
+          done
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
