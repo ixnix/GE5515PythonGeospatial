@@ -2,7 +2,6 @@ format: jb-book
 root: README
 
 chapters:
-  - file: module_0/introduction
   - file: module_0/syllabus
   - file: module_1/pandas_review
   - file: module_2/data_model
